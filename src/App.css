@@ -115,3 +115,20 @@ body{
     color: rgb(161, 161, 161);
     margin-top: 8px;
   }
+  .icon{
+    font-size: 35px;
+    cursor: pointer;
+  }
+  .icon:hover{
+    color: red;
+  }
+  
+  .check-icon{
+    font-size: 35px;
+    margin-left: 10px;
+    color:rgb(0,230,122);
+    cursor: pointer;
+  }
+  .check-icon:hover{
+    color: rgb(4, 196, 106);
+  }  
